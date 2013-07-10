@@ -1,0 +1,2 @@
+CREATE DATABASE graphite CHARACTER SET = utf8;
+GRANT ALL PRIVILEGES ON graphite.* TO graphite@localhost IDENTIFIED BY 'CHANGEME';
